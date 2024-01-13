@@ -1,4 +1,4 @@
-package com.Assignment;
+package Assignment;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.Assignment;
+package Assignment;
 
 import java.awt.event.ActionEvent;
 import java.beans.PropertyChangeListener;
