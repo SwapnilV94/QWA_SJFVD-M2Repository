@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Assignment9_1 {
+public class A9_1_Flipkart_iPhonePrice {
 	public static void main(String[] args) throws InterruptedException  {
 		
 		WebDriver driver = new ChromeDriver();

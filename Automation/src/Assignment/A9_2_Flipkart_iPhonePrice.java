@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Assignment9_2 {
+public class A9_2_Flipkart_iPhonePrice {
 	public static void main(String[] args) {
 		
 		WebDriver driver = new ChromeDriver();

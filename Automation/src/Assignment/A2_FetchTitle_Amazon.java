@@ -3,7 +3,7 @@ package Assignment;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Assignment2 {
+public class A2_FetchTitle_Amazon {
 	public static void main(String[] args) {
 		
 		WebDriver driver = new ChromeDriver();
