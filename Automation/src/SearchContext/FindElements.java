@@ -1,4 +1,4 @@
-package com.SearchContext;
+package SearchContext;
 
 import java.util.List;
 

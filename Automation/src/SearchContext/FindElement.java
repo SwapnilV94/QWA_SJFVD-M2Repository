@@ -1,4 +1,4 @@
-package com.SearchContext;
+package SearchContext;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
