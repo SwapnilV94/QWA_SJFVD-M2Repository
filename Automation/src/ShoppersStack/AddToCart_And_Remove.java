@@ -1,4 +1,4 @@
-package SS;
+package ShoppersStack;
 
 import java.time.Duration;
 
